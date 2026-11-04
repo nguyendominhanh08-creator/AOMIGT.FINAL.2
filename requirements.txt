@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+plotly
+streamlit
+# optional: only needed for solve_game_2x2(..., plot_graph=True / save_fig_path=...)
+# matplotlib
